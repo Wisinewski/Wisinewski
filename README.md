@@ -7,6 +7,6 @@
 
 <div align="center">
   <a href="https://github.com/Wisinewski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wisinewski&theme=dracula&hide=stars,issues"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisinewski&layout=compact&theme=dracula"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=Wisinewski&theme=dracula&hide=stars,issues"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisinewski&layout=compact&theme=dracula"/>
 </div>
